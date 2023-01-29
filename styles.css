@@ -21,7 +21,14 @@ h2{
     margin: 0;
     font-weight: 700;
     word-spacing: 0.1em;
+    color:  hsl(158, 36%, 37%);
+}
+
+h3{
     font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    font-weight: 700;
+    word-spacing: 0.1em;
 }
 
 h6{
